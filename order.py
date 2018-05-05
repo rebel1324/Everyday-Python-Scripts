@@ -1,6 +1,7 @@
 #
 #   Match Anime Video and Subtitle Name Synced!
-#   It works for the most of the time. Syncing the subtitle based on the number.
+#   It works for the most of the time.
+#   Syncing the subtitle based on the number.
 #   The video file should follow regular file name format in the torrent site.
 #
 import re
@@ -14,7 +15,7 @@ print("I don't want to pay 15$ just for file sorter man")
 print("========================================")
 
 TARGET_PATH = os.path.dirname(os.path.realpath(__file__))
-EPISODE_LENGTH = 2  # The episode has two digit number. (You're not watching One-Piece you fucker)
+EPISODE_LENGTH = 2  # The episode has two digit number.
 EXCLUDE_INFO = "(\((.*?)\))|(\[(.*?)\])"
 EXTENTION = "(.\w)+$"
 FIND_NUMBERS = '([0-9]{1,' + str(EPISODE_LENGTH) + '})'
@@ -72,7 +73,7 @@ for index in vidFiles:
 
     try:
         result = extnt.search(filename)
-        if (WHITELIST[result[0]] == True):
+        if (WHITELIST[result[0]]):
             if subFiles[index]:
                 repName = extnt.sub("", filename)
                 os.rename(
