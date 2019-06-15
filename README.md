@@ -8,3 +8,5 @@ This script was made for sorting the subtitle files and video files in sync so t
 This script was made for automating converting psd file to png file everytime when i made change to psd file. it was pretty annoying task when i use photoshop but hey now I actually automated it so you can go check it out.
 ## vmt_generator_with_matproxy.py
 This script was made for automating VMT file merging process that is used for Source Engine Games. This tool was designed to reduce time to make new skins for Source Engine Games. 
+## workstart.py
+My personal sprint timer. when this script executed. it will notify me 90 minutes of work time and 30 minutes of rest time.
