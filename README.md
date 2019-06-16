@@ -1,5 +1,9 @@
 # Everyday Python Scripts
-This is just everyday python scripts. Does not cares about efficiency, just useful for everyday use.
+This is just everyday python scripts. Does not cares about execution efficiency (when it's just used for few times), just useful for everyday use.
+
+Mainly focusing on practicing automation methods and see how I can actually save my time and do less mosue/keyboard works and tedious tasks.
+
+If you have any idea to solve automations, you can add some of ideas on Issues page.
 
 # List of scripts 
 ## order.py
