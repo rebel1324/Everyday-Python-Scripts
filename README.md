@@ -6,6 +6,7 @@ This is just everyday python scripts. Does not cares about efficiency, just usef
 **file management**
 
 This script was made for sorting the subtitle files and video files in sync so the video player can detect the subtitle file without the hassle. All you have to do is just copy this thing and put on your anime folder and run the file.
+pretty efficient for merging external subtitles. (especially you, korean boy)
 ![loader](https://i.imgur.com/71A4QSK.gif)
 ## auto_psd_to_png.py
 **file management / automation**
