@@ -4,7 +4,6 @@ This is just everyday python scripts. Does not cares about execution efficiency 
 Mainly focusing on practicing automation methods and see how I can actually save my time and do less mosue/keyboard works and tedious tasks.
 
 If you have any idea to solve automations, you can add some of ideas on Issues page.
-
 # List of scripts 
 ## order.py
 **file management**
@@ -29,3 +28,6 @@ My personal sprint timer. when this script executed it will notify me 90 minutes
 
 My personal manga notification program. When this script executed it will notify me new mangas that i've missed via telegram. The source is undisclosed. e-mail me if you need to know the parsing source. 
 riddled with inefficient code - since I don't want to get blocked from the site, async/multithread never used.
+# Tips
+These scripts are designed to be some kind of generic tools for your windows environment. I suggest you to put some of these scripst on some folder and add that path on PATH enviornment variable.
+So you can actually call the program anywhere freely.
