@@ -9,4 +9,7 @@ This script was made for automating converting psd file to png file everytime wh
 ## vmt_generator_with_matproxy.py
 This script was made for automating VMT file merging process that is used for Source Engine Games. This tool was designed to reduce time to make new skins for Source Engine Games. 
 ## workstart.py
-My personal sprint timer. when this script executed. it will notify me 90 minutes of work time and 30 minutes of rest time.
+My personal sprint timer. when this script executed it will notify me 90 minutes of work time and 30 minutes of rest time.
+## mana.py
+My personal manga notification program. When this script executed it will notify me new mangas that i've missed via telegram. The source is undisclosed. e-mail me if you need to know the parsing source. 
+riddled with inefficient code - since I don't want to get blocked from the site, async/multithread never used.
